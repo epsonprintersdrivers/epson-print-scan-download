@@ -14,6 +14,6 @@ Locate the Epson Print and Scan application in the downloads section and click t
 After downloading the file, open the installer and follow the on-screen instructions to install the software on your computer.
 
 <h2>Step 5: Connect and Start Printing</h2>
-Once installed, open the Epson Print and Scan app and select your printer. If the epson connect printer setup has been completed, the application will automatically detect your device. You can now print documents, scan images, and save files easily.
+Once installed, open the <a href="https://github.com/epsonprintersdrivers/epson-print-scan-download/">Epson Print and Scan app</a> and select your printer. If the epson connect printer setup has been completed, the application will automatically detect your device. You can now print documents, scan images, and save files easily.
 
 Using Epson Print and Scan with the epson connect printer setup provides a convenient way to manage printing and scanning from one simple interface.
